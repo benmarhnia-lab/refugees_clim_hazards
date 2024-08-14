@@ -173,7 +173,7 @@ map1 <- ggplot() +
   annotation_scale() +
   theme_void()
 
-save_plot("./figures/map1.svg", fig = map1, width=20, height=20)
+save_plot("map1.svg", fig = map1, width=20, height=20)
 
 
 ###############################################################################
