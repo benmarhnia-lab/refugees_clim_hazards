@@ -1,0 +1,282 @@
+"","country","adm1","disasters"
+"1","Egypt","Al Bahr Al Ahmar",1
+"2","Egypt","Al Bahr Al Ahmar",2
+"3","Egypt","Al Bahr Al Ahmar",1
+"4","Egypt","Al Buhayrah",1
+"5","Egypt","Al Fayyum",1
+"6","Egypt","Al Fayyum",1
+"7","Egypt","Al Gharbiyah",1
+"8","Egypt","Al Iskandariyah",3
+"9","Egypt","Al Isma'iliyah",1
+"10","Egypt","Al Minufiyah",1
+"11","Egypt","Al Minya",2
+"12","Egypt","Al Minya",1
+"13","Egypt","Al Qahirah",2
+"14","Egypt","Al Qahirah",1
+"15","Egypt","Al Qalyubiyah",1
+"16","Egypt","Al Wadi Al Jadid",1
+"17","Egypt","Ash Sharqiyah",1
+"18","Egypt","Aswan",2
+"19","Egypt","Asyut",2
+"20","Egypt","Asyut",1
+"21","Egypt","Asyut",1
+"22","Egypt","Bani Suwayf",1
+"23","Egypt","Janub Sina'",1
+"24","Egypt","Janub Sina'",1
+"25","Egypt","Janub Sina'",1
+"26","Egypt","Janub Sina'",1
+"27","Egypt","Janub Sina'",2
+"28","Egypt","Kafr Ash Shaykh",1
+"29","Egypt","Matrouh",1
+"30","Egypt","Matrouh",1
+"31","Egypt","Qina",1
+"32","Egypt","Qina",2
+"33","Egypt","Shamal Sina'",1
+"34","Egypt","Suhaj",3
+"35","Iraq","Al-Qadisiyah",1
+"36","Iraq","Arbil",1
+"37","Iraq","Arbil",2
+"38","Iraq","Arbil",1
+"39","Iraq","Arbil",1
+"40","Iraq","Arbil",2
+"41","Iraq","As-Sulaymaniyah",1
+"42","Iraq","At-Ta'mim",1
+"43","Iraq","Babil",1
+"44","Iraq","Baghdad",2
+"45","Iraq","Baghdad",1
+"46","Iraq","Dhi-Qar",2
+"47","Iraq","Dihok",2
+"48","Iraq","Diyala",1
+"49","Iraq","Maysan",1
+"50","Iraq","Ninawa",1
+"51","Iraq","Sala Ad-Din",1
+"52","Iraq","Wasit",1
+"53","Jordan","Ajlun",1
+"54","Jordan","Amman",2
+"55","Jordan","Aqaba",1
+"56","Jordan","Balqa",1
+"57","Jordan","Irbid",1
+"58","Jordan","Jarash",1
+"59","Jordan","Karak",1
+"60","Jordan","Ma'an",1
+"61","Jordan","Madaba",1
+"62","Jordan","Mafraq",1
+"63","Jordan","Tafilah",1
+"64","Jordan","Zarqa",1
+"65","Lebanon","Akkar",1
+"66","Lebanon","Akkar",1
+"67","Lebanon","Baalbak-Hermel",2
+"68","Lebanon","Beirut",1
+"69","Lebanon","Bekaa",1
+"70","Lebanon","Bekaa",3
+"71","Lebanon","Mount Lebanon",1
+"72","Lebanon","Nabatiyeh",1
+"73","Lebanon","North",1
+"74","Lebanon","South",1
+"75","Sweden","Blekinge",1
+"76","Sweden","Gotland",1
+"77","Sweden","Halland",1
+"78","Sweden","Jonkoping",1
+"79","Sweden","Kalmar",1
+"80","Sweden","Kronoberg",1
+"81","Sweden","Orebro",1
+"82","Sweden","Ostergotland",1
+"83","Sweden","Skane",1
+"84","Sweden","Sodermanland",1
+"85","Sweden","Stockholm",1
+"86","Sweden","Uppsala",1
+"87","Sweden","Varmland",1
+"88","Sweden","Vastmanland",1
+"89","Sweden","Vastra Gotaland",1
+"90","Syrian Arab Republic","Al Hasakah",2
+"91","Syrian Arab Republic","Aleppo",1
+"92","Syrian Arab Republic","Aleppo",1
+"93","Syrian Arab Republic","Ar Raqqah",1
+"94","Syrian Arab Republic","As Suwayda'",1
+"95","Syrian Arab Republic","Damascus",1
+"96","Syrian Arab Republic","Damascus",2
+"97","Syrian Arab Republic","Dar'a",1
+"98","Syrian Arab Republic","Dar'a",2
+"99","Syrian Arab Republic","Dayr Az Zawr",1
+"100","Syrian Arab Republic","Dayr Az Zawr",2
+"101","Syrian Arab Republic","Hamah",3
+"102","Syrian Arab Republic","Hims",2
+"103","Syrian Arab Republic","Idlib",1
+"104","Syrian Arab Republic","Quneitra",1
+"105","Turkey","Adana",3
+"106","Turkey","Adana",1
+"107","Turkey","Adiyaman",1
+"108","Turkey","Adiyaman",1
+"109","Turkey","Afyon",1
+"110","Turkey","Afyon",1
+"111","Turkey","Agri",2
+"112","Turkey","Agri",2
+"113","Turkey","Aksaray",1
+"114","Turkey","Aksaray",1
+"115","Turkey","Amasya",1
+"116","Turkey","Amasya",1
+"117","Turkey","Ankara",4
+"118","Turkey","Ankara",1
+"119","Turkey","Ankara",4
+"120","Turkey","Antalya",4
+"121","Turkey","Antalya",1
+"122","Turkey","Ardahan",1
+"123","Turkey","Ardahan",1
+"124","Turkey","Artvin",1
+"125","Turkey","Artvin",1
+"126","Turkey","Artvin",2
+"127","Turkey","Aydin",1
+"128","Turkey","Aydin",1
+"129","Turkey","Balikesir",1
+"130","Turkey","Balikesir",1
+"131","Turkey","Bartin",4
+"132","Turkey","Batman",3
+"133","Turkey","Batman",1
+"134","Turkey","Bayburt",1
+"135","Turkey","Bayburt",1
+"136","Turkey","Bilecik",1
+"137","Turkey","Bilecik",1
+"138","Turkey","Bingol",1
+"139","Turkey","Bingol",1
+"140","Turkey","Bitlis",5
+"141","Turkey","Bitlis",1
+"142","Turkey","Bolu",1
+"143","Turkey","Bolu",1
+"144","Turkey","Burdur",1
+"145","Turkey","Burdur",2
+"146","Turkey","Bursa",1
+"147","Turkey","Bursa",2
+"148","Turkey","Canakkale",1
+"149","Turkey","Canakkale",2
+"150","Turkey","Cankiri",1
+"151","Turkey","Cankiri",1
+"152","Turkey","Corum",2
+"153","Turkey","Corum",1
+"154","Turkey","Denizli",2
+"155","Turkey","Denizli",1
+"156","Turkey","Diyarbakir",1
+"157","Turkey","Diyarbakir",1
+"158","Turkey","Diyarbakir",2
+"159","Turkey","Diyarbakir",1
+"160","Turkey","Duzce",2
+"161","Turkey","Edirne",1
+"162","Turkey","Edirne",2
+"163","Turkey","Elazig",2
+"164","Turkey","Erzincan",1
+"165","Turkey","Erzincan",1
+"166","Turkey","Erzurum",2
+"167","Turkey","Erzurum",1
+"168","Turkey","Erzurum",2
+"169","Turkey","Eskisehir",1
+"170","Turkey","Eskisehir",1
+"171","Turkey","Gaziantep",2
+"172","Turkey","Gaziantep",1
+"173","Turkey","Giresun",1
+"174","Turkey","Giresun",2
+"175","Turkey","Gumushane",1
+"176","Turkey","Gumushane",1
+"177","Turkey","Gumushane",1
+"178","Turkey","Hakkari",1
+"179","Turkey","Hakkari",1
+"180","Turkey","Hatay",3
+"181","Turkey","Hatay",1
+"182","Turkey","Igdir",1
+"183","Turkey","Isparta",2
+"184","Turkey","Isparta",1
+"185","Turkey","Isparta",1
+"186","Turkey","Istanbul",1
+"187","Turkey","Istanbul",1
+"188","Turkey","Istanbul",4
+"189","Turkey","Istanbul",1
+"190","Turkey","Istanbul",1
+"191","Turkey","Istanbul",5
+"192","Turkey","Izmir",2
+"193","Turkey","Izmir",2
+"194","Turkey","K. Maras",1
+"195","Turkey","Karabuk",2
+"196","Turkey","Karabuk",1
+"197","Turkey","Karaman",1
+"198","Turkey","Karaman",1
+"199","Turkey","Kars",2
+"200","Turkey","Kars",1
+"201","Turkey","Kastamonu",1
+"202","Turkey","Kastamonu",1
+"203","Turkey","Kayseri",2
+"204","Turkey","Kayseri",2
+"205","Turkey","Kilis",1
+"206","Turkey","Kilis",1
+"207","Turkey","Kinkkale",1
+"208","Turkey","Kirklareli",2
+"209","Turkey","Kirklareli",2
+"210","Turkey","Kirsehir",1
+"211","Turkey","Kirsehir",1
+"212","Turkey","Kocaeli",1
+"213","Turkey","Kocaeli",1
+"214","Turkey","Konya",3
+"215","Turkey","Konya",1
+"216","Turkey","Kutahya",1
+"217","Turkey","Kutahya",1
+"218","Turkey","Malatya",1
+"219","Turkey","Malatya",1
+"220","Turkey","Malatya",1
+"221","Turkey","Manisa",2
+"222","Turkey","Manisa",1
+"223","Turkey","Mardin",1
+"224","Turkey","Mardin",1
+"225","Turkey","Mersin",1
+"226","Turkey","Mersin",1
+"227","Turkey","Mersin",1
+"228","Turkey","Mersin",1
+"229","Turkey","Mugla",1
+"230","Turkey","Mugla",1
+"231","Turkey","Mus",3
+"232","Turkey","Mus",1
+"233","Turkey","Nevsehir",1
+"234","Turkey","Nevsehir",1
+"235","Turkey","Nigde",1
+"236","Turkey","Nigde",1
+"237","Turkey","Ordu",2
+"238","Turkey","Ordu",1
+"239","Turkey","Osmaniye",1
+"240","Turkey","Osmaniye",1
+"241","Turkey","Rize",1
+"242","Turkey","Rize",1
+"243","Turkey","Rize",1
+"244","Turkey","Rize",4
+"245","Turkey","Rize",1
+"246","Turkey","Rize",2
+"247","Turkey","Sakarya",3
+"248","Turkey","Sakarya",1
+"249","Turkey","Samsun",3
+"250","Turkey","Samsun",1
+"251","Turkey","Sanliurfa",3
+"252","Turkey","Sanliurfa",1
+"253","Turkey","Siirt",1
+"254","Turkey","Siirt",1
+"255","Turkey","Sinop",1
+"256","Turkey","Sinop",2
+"257","Turkey","Sirnak",2
+"258","Turkey","Sirnak",2
+"259","Turkey","Sivas",1
+"260","Turkey","Sivas",1
+"261","Turkey","Sivas",1
+"262","Turkey","Tekirdag",2
+"263","Turkey","Tekirdag",2
+"264","Turkey","Tokat",3
+"265","Turkey","Tokat",1
+"266","Turkey","Trabzon",2
+"267","Turkey","Trabzon",1
+"268","Turkey","Trabzon",1
+"269","Turkey","Trabzon",4
+"270","Turkey","Tunceli",1
+"271","Turkey","Tunceli",1
+"272","Turkey","Usak",1
+"273","Turkey","Usak",1
+"274","Turkey","Van",2
+"275","Turkey","Van",1
+"276","Turkey","Yalova",1
+"277","Turkey","Yalova",1
+"278","Turkey","Yozgat",3
+"279","Turkey","Yozgat",1
+"280","Turkey","Zinguldak",2
+"281","Turkey","Zinguldak",1
